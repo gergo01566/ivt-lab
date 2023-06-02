@@ -1,0 +1,5 @@
+1. A primary torpedo store sikeresen tuzel egy single modu loveskor.
+2. A primary torpedo store sikertelen lovest jelez egy single modu loveskor.
+3. ugyanaz mint az elso csak secondaryvel
+4. ugyanaz mint a masodik csak secondaryvel
+5. Mindket torpedo sikeresen tuzel az all modu lovesnel.
